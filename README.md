@@ -1,9 +1,9 @@
-## Bem vindo ao meu perfil GitHub 👋
+## Bem vindo ao meu perfil 👋
 
 
 ### Sobre min
 Tudo bem com você? 
-Me chamo Hugo Christian, tenho 31 anos e busco constantemente evoluir como programador. Sou curioso, amo aprender coisas novas e compartilhar conhecimentos já adquiridos.
+<br/>Me chamo Hugo Christian, tenho 31 anos e busco constantemente evoluir como programador. Sou curioso, amo aprender coisas novas e compartilhar conhecimentos já adquiridos.
 <br/>
 <br/>
 <br/>
